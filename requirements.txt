@@ -1,0 +1,11 @@
+langchain
+langgraph
+langchain-google-genai
+python-dotenv
+pytest
+sentence-transformers
+numpy
+langchain-core
+langchain-text-splitters
+langchain-community
+langchain-google-genai
